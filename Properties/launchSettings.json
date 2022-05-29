@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Jogo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "fire": "Value"
+      }
+    }
+  }
+}
